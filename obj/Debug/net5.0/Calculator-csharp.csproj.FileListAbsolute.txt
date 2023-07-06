@@ -1,0 +1,16 @@
+C:\Users\marce\Desktop\Calculator-csharp\obj\Debug\net5.0\Calculator-csharp.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\Calculator-csharp\obj\Debug\net5.0\Calculator-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Calculator-csharp\obj\Debug\net5.0\Calculator-csharp.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Calculator-csharp\obj\Debug\net5.0\Calculator-csharp.AssemblyInfo.cs
+C:\Users\marce\Desktop\Calculator-csharp\obj\Debug\net5.0\Calculator-csharp.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Calculator-csharp\bin\Debug\net5.0\Calculator-csharp.exe
+C:\Users\marce\Desktop\Calculator-csharp\bin\Debug\net5.0\Calculator-csharp.deps.json
+C:\Users\marce\Desktop\Calculator-csharp\bin\Debug\net5.0\Calculator-csharp.runtimeconfig.json
+C:\Users\marce\Desktop\Calculator-csharp\bin\Debug\net5.0\Calculator-csharp.runtimeconfig.dev.json
+C:\Users\marce\Desktop\Calculator-csharp\bin\Debug\net5.0\Calculator-csharp.dll
+C:\Users\marce\Desktop\Calculator-csharp\bin\Debug\net5.0\Calculator-csharp.pdb
+C:\Users\marce\Desktop\Calculator-csharp\obj\Debug\net5.0\Calculator-csharp.dll
+C:\Users\marce\Desktop\Calculator-csharp\obj\Debug\net5.0\refint\Calculator-csharp.dll
+C:\Users\marce\Desktop\Calculator-csharp\obj\Debug\net5.0\Calculator-csharp.pdb
+C:\Users\marce\Desktop\Calculator-csharp\obj\Debug\net5.0\Calculator-csharp.genruntimeconfig.cache
+C:\Users\marce\Desktop\Calculator-csharp\obj\Debug\net5.0\ref\Calculator-csharp.dll
