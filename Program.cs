@@ -6,7 +6,9 @@ namespace Calculator_csharp
     {
         static void Main(string[] args)
         {
-            float firstValue = 0, secondValue = 0, result = 0;
+            float firstValue = 0;
+            float secondValue = 0;
+            float result = 0;
             int? operation = 0;
             string? operatorSimbol = "", stop = "";
 
@@ -17,10 +19,10 @@ namespace Calculator_csharp
                 Console.WriteLine("Calculadora");
 
                 Console.WriteLine("Digite o primeiro valor: \r\n");
-                firstValue = (float)Convert.ToInt32(Console.ReadLine());
+                firstValue = float.Parse(Console.ReadLine());
 
                 Console.WriteLine("Digite o segundo valor: \r\n");
-                secondValue = (float)Convert.ToInt32(Console.ReadLine());
+                secondValue = float.Parse(Console.ReadLine());
 
                 Console.WriteLine("\r\nEscolha e digite o símbolo correspondende: \r\n \r\n 1 -> Adição \r\n 2 -> Subtração \r\n 3 -> Divisão \r\n 4 -> Multiplicação ");
                 do
@@ -46,25 +48,25 @@ namespace Calculator_csharp
                 {
                     case 1:
                         {
-                            result = firstValue + secondValue;
+                            result = Add(firstValue, secondValue);
                             operatorSimbol = "+";
                             break;
                         }
                     case 2:
                         {
-                            result = firstValue - secondValue;
+                            result = Sub(firstValue, secondValue);
                             operatorSimbol = "-";
                             break;
                         }
                     case 3:
                         {
-                            result = firstValue / secondValue;
+                            result = Division(firstValue, secondValue);
                             operatorSimbol = "/";
                             break;
                         }
                     case 4:
                         {
-                            result = firstValue * secondValue;
+                            result = Multiply(firstValue, secondValue);
                             operatorSimbol = "x";
                             break;
                         }
@@ -84,6 +86,12 @@ namespace Calculator_csharp
 
             } while (stop != "y" && stop != "Y");
         }
+
+
+        static float Add(float a, float b) { return a + b; }
+        static float Multiply(float a, float b) { return a * b; }
+        static float Sub(float a, float b) { return a - b; }
+        static float Division(float a, float b) { return a / b; }
     }
 
 }

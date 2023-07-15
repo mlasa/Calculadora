@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marce\\Desktop\\Calculator-csharp\\Calculator-csharp.csproj",
+      "projectUniqueName": "F:\\Pessoal\\Cursos\\balta.io\\Calculadora\\Calculator-csharp.csproj",
       "projectName": "Calculator-csharp",
-      "projectPath": "C:\\Users\\marce\\Desktop\\Calculator-csharp\\Calculator-csharp.csproj",
+      "projectPath": "F:\\Pessoal\\Cursos\\balta.io\\Calculadora\\Calculator-csharp.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marce\\Desktop\\Calculator-csharp\\obj\\",
+      "outputPath": "F:\\Pessoal\\Cursos\\balta.io\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.313\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.315\\RuntimeIdentifierGraph.json"
       }
     }
   }
