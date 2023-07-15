@@ -78,7 +78,7 @@ namespace Calculator_csharp
                         }
                 }
 
-                Console.Write("\r\n \r\nOperação: \r\n" + firstValue + operatorSimbol + secondValue + " = " + result);
+                Console.WriteLine($"\r\n Operação: {firstValue} {operatorSimbol} {secondValue} = {result} ");
 
 
                 Console.WriteLine("\r\n\r\n Quer parar? (y)");
